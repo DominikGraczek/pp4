@@ -1,4 +1,4 @@
-package pl.dgraczek.ecommerce.hello;
+package pl.msokolowski.ecommerce.hello;
 
 
 import org.springframework.web.bind.annotation.GetMapping;

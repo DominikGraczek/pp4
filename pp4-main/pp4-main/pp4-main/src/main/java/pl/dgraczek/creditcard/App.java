@@ -4,7 +4,7 @@ import java.util.Collections;
 
 public class App {
     public static void main(String[] args) {
-        String name = "Jakub";
+        String name = "Dominik";
 
         var a = 2;
         var b = 3;
