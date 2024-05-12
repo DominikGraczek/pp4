@@ -1,4 +1,4 @@
-package pl.jkanclerz.hello;
+package pl.dgraczek.hello;
 
 import java.util.Collections;
 
