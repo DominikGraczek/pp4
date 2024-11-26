@@ -6,3 +6,8 @@ jobs:
      steps:
        - name: "My first command"
          run: echo "Dominik"
+       - name: "Checkout repository"
+         uses: actions/checkout@v4
+       - name: "show structure"
+         run: tree ./
+       - run: echo "it works"
